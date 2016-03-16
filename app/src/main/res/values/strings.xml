@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">樂透號碼產生器</string>
+    <string name="action_settings">Exit</string>
+    <string name="lotTypeSelMsg">請選擇種類:</string>
+    <string name="rad_Biglot">大樂透</string>
+    <string name="rad_PowerLot">威力彩</string>
+    <string name="tv_choseMsg">請選擇選號種類:</string>
+    <string name="tv_wantVal">請輸入欲產生組數:</string>
+</resources>
